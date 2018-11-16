@@ -1,0 +1,4 @@
+requests
+socket
+geoip
+requests-futures==0.9.7
